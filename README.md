@@ -1,6 +1,6 @@
 ### Olá, eu sou o Marco Tullio 👋
 
-<div style="display inline_block">
+<div style="display flex">
 <div align="center">
   <a href="https://github.com/MarcoFranca">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MarcoFranca&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
