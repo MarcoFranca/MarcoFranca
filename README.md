@@ -1,4 +1,17 @@
-### Olá, eu sou o Marco Tullio 👋
+### Hi there, I'm Marco Tullio 👋
+
+I am looking for a Career Transition.
+ 
+Despite being studying to be Full Stack, today I feel comfortable working in the front-end area.
+
+I'm looking for junior and internship positions to put myself in the IT market.
+
+✍🏻 I'm studying:
+
+- ✔ Faculty of Computer Science (6th period) - Estácio de Sá
+
+- ✔ Full Stack Javascript - Fullture
+
 
 <div align="center">
   <a href="https://github.com/MarcoFranca">
