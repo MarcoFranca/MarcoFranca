@@ -1,14 +1,19 @@
-### Hi there, I'm Marco Tullio 👋
+### Olá, eu sou Marco Tullio 👋
 
-I am looking for a Career Transition.
- 
-Despite being studying to be Full Stack, today I feel comfortable working in the front-end area.
+A minha carreira sempre foi construída por muito trabalho em equipe, e desde sempre consegui unir a equipe onde trabalhei com muita harmonia.
 
-I'm looking for junior and internship positions to put myself in the IT market.
+Sempre fui muito proativo e disposto a ajudar naquilo que eu sei e a encontrar soluções em conjunto com a equipe para o que não sabemos. 
 
-✍🏻 I'm studying:
+Sou dedicado e persistente, amo programar e ter desafios. Aprender coisas novas é comigo mesmo!
 
-- ✔ Faculty of Computer Science (6th period) - Estácio de Sá
+Hoje estou focado na área de Desenvolvimento front end
+
+📃 Possuo certificado e prática nas tecnologias:
+✔javaScript ✔ CSS ✔ Html ✔ Git | Git Hub
+
+✍🏻 Estou estudando:
+
+- ✔ Faculdade de Ciencias da Computação (6th periodo) - Estácio de Sá
 
 - ✔ Full Stack Javascript - Fullture
 
@@ -30,6 +35,6 @@ I'm looking for junior and internship positions to put myself in the IT market.
   <a href = "mailto:dev.marcotullio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marco-franca" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/MarcoFranca/MarcoFranca/blob/output/github-contribution-grid-snake.svg)
+ 
  
 </div>
