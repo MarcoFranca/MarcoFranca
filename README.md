@@ -18,13 +18,13 @@ Hoje estou focado na área de Desenvolvimento front end
 - ✔ Full Stack Javascript - Fullture
 
 
-<div align="center">
+<div style="display: inline" align="center" >
   <a href="https://github.com/MarcoFranca">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MarcoFranca&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoFranca&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<div align="center">
+<div align="center" width ="160em" height="160em">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MarcoFranca&theme=dark)](https://git.io/streak-stats)
 
