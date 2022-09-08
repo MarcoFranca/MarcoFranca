@@ -9,7 +9,7 @@ Sou dedicado e persistente, amo programar e ter desafios. Aprender coisas novas 
 Hoje estou focado na área de Desenvolvimento front end
 
 📃 Possuo certificado e prática nas tecnologias:
-✔javaScript ✔ CSS ✔ Html ✔ Git | Git Hub
+✔React ✔javaScript ✔ CSS ✔ Html ✔ Git | Git Hub
 
 ✍🏻 Estou estudando:
 
@@ -31,9 +31,10 @@ Hoje estou focado na área de Desenvolvimento front end
 </div>
 
 <div align="center" style="display: inline_block"><br>
+  <img align="center" alt="Marco-REACT" height="30" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="Marco-Js" height="30" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Marco-HTML" height="30" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Marco-CSS" height="30" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Marco-HTML" height="30" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 </div>
 
  ##
