@@ -9,7 +9,7 @@ Sou dedicado e persistente, amo programar e ter desafios. Aprender coisas novas 
 Hoje estou focado na área de Desenvolvimento front end
 
 📃 Possuo certificado e prática nas tecnologias:
-✔React ✔javaScript ✔ CSS ✔ Html ✔ Git | Git Hub
+✔React ✔MongoDB ✔javaScript ✔ CSS ✔ Html ✔ Git | Git Hub
 
 ✍🏻 Estou estudando:
 
