@@ -9,7 +9,7 @@ Sou dedicado e persistente, amo programar e ter desafios. Aprender coisas novas 
 Hoje estou focado na área de Desenvolvimento front end
 
 📃 Possuo certificado e prática nas tecnologias:
-✔Node.JS ✔React ✔MongoDB ✔javaScript ✔ CSS ✔ Html ✔ Git | Git Hub
+✔Node.JS ✔React ✔React-Native ✔MongoDB ✔javaScript ✔ CSS ✔ Html ✔ Git | Git Hub
 
 ✍🏻 Estou estudando:
 
@@ -39,7 +39,7 @@ Hoje estou focado na área de Desenvolvimento front end
   <img align="center" alt="Marco-HTML" height="30" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
   <img align="center" alt="Marco-GIT" height="30" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
   <img align="center" alt="Marco-MONGO" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-  <img align="center" alt="Marco-MONGO" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="Marco-NODE" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   
           
 </div>
