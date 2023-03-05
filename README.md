@@ -1,21 +1,12 @@
-### Olá, eu sou Marco Tullio 👋
+Com muito prazer, me apresento como Marco Tullio, um apaixonado pela tecnologia desde tenra idade. Atualmente cursando Ciências da computação (7º período) e com MBA em administração de empresas, estou sempre em busca de aperfeiçoamento de minhas habilidades técnicas. Recentemente, iniciei um curso de Dev fullStack-JavaScript para aprimorar ainda mais meus conhecimentos.
 
-A minha carreira sempre foi construída por muito trabalho em equipe, e desde sempre consegui unir a equipe onde trabalhei com muita harmonia.
+Alguns dos meus trabalhos mais recentes incluem um site em React com implementação de API (https://github.com/MarcoFranca/fullflix), um site em JavaScript com mapa de localização (https://github.com/MarcoFranca/Art-gallery-website), uma landing-page em JavaScript com validação de e-mails (https://github.com/MarcoFranca/Pod-request-access-landing-page) e uma lista de tarefas em JavaScript com filtro e persistência de dados (https://github.com/MarcoFranca/todo-list-challenge).
 
-Sempre fui muito proativo e disposto a ajudar naquilo que eu sei e a encontrar soluções em conjunto com a equipe para o que não sabemos. 
+Além disso, estou trabalhando como freelancer em desenvolvimento de front-end, utilizando principalmente a tecnologia React. Nesse papel, tenho aprimorado minhas habilidades e desenvolvido projetos para o meu portfólio. Um dos meus projetos concluídos foi o site da renomada empresa Oxynit (representante da oxywise), desenvolvido inteiramente com React (http://oxynit.ind.br). Também realizei outros projetos para aprimorar minhas habilidades, como um site em React com implementação de API, um site em JavaScript com mapa de localização, uma landing-page em JavaScript com validação de e-mails e uma lista de tarefas em JavaScript com filtro e persistência de dados, entre outros disponíveis em meu perfil no GitHub (https://github.com/MarcoFranca).
 
-Sou dedicado e persistente, amo programar e ter desafios. Aprender coisas novas é comigo mesmo!
+Sou uma pessoa fácil de lidar, com perfil analítico e pronta para encontrar soluções. Sou dedicado, persistente e possuo paixão pelo desenvolvimento de software, sempre disposto a enfrentar novos desafios. Possuo certificado e prática nas tecnologias: React, JavaScript, Node, CSS, HTML e Git/GitHub. Já realizei vários sites e landing pages responsivos, utilizando CSS Grid, Flex Box, design responsivo para dispositivos móveis e desktop, validação de e-mails e mapas de localização.
 
-Hoje estou focado na área de Desenvolvimento front end
-
-📃 Possuo certificado e prática nas tecnologias:
-✔Node.JS ✔React ✔React-Native ✔MongoDB ✔javaScript ✔ CSS ✔ Html ✔ Git | Git Hub
-
-✍🏻 Estou estudando:
-
-- ✔ Faculdade de Ciencias da Computação (6th periodo) - Estácio de Sá
-
-- ✔ Full Stack Javascript - Fullture
+Para entrar em contato comigo, você pode me enviar um e-mail para dev.marcotullio@gmail.com ou me ligar no telefone +55 (21) 99005-0220. Estou sempre disponível para discutir oportunidades de trabalho e colaboração.
 
 
 <div style="display: inline" align="center" >
