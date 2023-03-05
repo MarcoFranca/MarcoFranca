@@ -4,7 +4,7 @@ Minha carreira sempre foi construída com base em colaboração, empatia e siner
 
 Possuo certificado e prática nas tecnologias: React, JavaScript, Node, CSS, HTML e Git/GitHub. Além disso, já realizei vários sites e landing pages responsivos, utilizando CSS Grid, Flex Box, design responsivo para dispositivos móveis e desktop, validação de e-mails e mapas de localização. 🎓💻📱
 
-Alguns dos meus trabalhos mais recentes incluem um site em React com implementação de API (https://github.com/MarcoFranca/fullflix), um site em JavaScript com mapa de localização (https://github.com/MarcoFranca/Art-gallery-website), uma landing-page em JavaScript com validação de e-mails (https://github.com/MarcoFranca/Pod-request-access-landing-page), e uma lista de tarefas em JavaScript com filtro e persistência de dados (https://github.com/MarcoFranca/todo-list-challenge). Para ver mais de meu trabalho, acesse meu perfil no GitHub (https://github.com/MarcoFranca). 🔍💼
+Alguns dos meus trabalhos mais recentes incluem um site em React com implementação de API (https://github.com/MarcoFranca/fullflix), um site em JavaScript com mapa de localização (https://github.com/MarcoFranca/Art-gallery-website), uma landing-page em JavaScript com validação de e-mails (https://github.com/MarcoFranca/Pod-request-access-landing-page), e uma lista de tarefas em JavaScript com filtro e persistência de dados (https://github.com/MarcoFranca/todo-list-challenge).🔍💼
 
 Para entrar em contato comigo, você pode me enviar um e-mail para dev.marcotullio@gmail.com ou me ligar no telefone +55 (21) 99005-0220. Estou sempre disponível para discutir oportunidades de trabalho e colaboração. 📧🤙
 
