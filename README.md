@@ -1,13 +1,20 @@
-Com muito prazer, me apresento como Marco Tullio, um apaixonado pela tecnologia desde tenra idade. 🤖💻 Atualmente cursando Ciências da computação (8º período) e com MBA em administração de empresas, estou sempre em busca de aperfeiçoamento de minhas habilidades técnicas. 📚💪 Recentemente, iniciei um curso de Dev fullStack-JavaScript para aprimorar ainda mais meus conhecimentos.
+Olá, eu sou Marco Tullio, um apaixonado por tecnologia com formação em Bacharelado em Ciências da Computação e MBA em Administração de Empresas. Com mais de 12 cursos de aperfeiçoamento em programação, estou continuamente aprimorando minhas habilidades técnicas para me manter atualizado no dinâmico mundo da tecnologia.
 
-Alguns dos meus trabalhos mais recentes incluem um site em React com implementação de API (https://github.com/MarcoFranca/fullflix), um site em JavaScript com mapa de localização (https://github.com/MarcoFranca/Art-gallery-website), uma landing-page em JavaScript com validação de e-mails (https://github.com/MarcoFranca/Pod-request-access-landing-page) e uma lista de tarefas em JavaScript com filtro e persistência de dados (https://github.com/MarcoFranca/todo-list-challenge).
+Atualmente, estou finalizando um projeto Full Stack: um CRM focado em corretores de seguro. Este projeto integra uma API desenvolvida em Django, conectada a um banco de dados PostgreSQL, com um front-end construído em Next.js.
 
-Além disso, estou trabalhando como freelancer em desenvolvimento de front-end, utilizando principalmente a tecnologia React. 🚀👨‍💻 Nesse papel, tenho aprimorado minhas habilidades e desenvolvido projetos para o meu portfólio. Um dos meus projetos concluídos foi o site da renomada empresa Oxynit (representante da oxywise), desenvolvido inteiramente com React (http://oxynit.ind.br). Também realizei outros projetos para aprimorar minhas habilidades, como um site em React com implementação de API, um site em JavaScript com mapa de localização, uma landing-page em JavaScript com validação de e-mails e uma lista de tarefas em JavaScript com filtro e persistência de dados, entre outros disponíveis em meu perfil no GitHub (https://github.com/MarcoFranca).
+Minha carreira é fundamentada em colaboração, empatia e sinergia. Possuo um perfil analítico, sou dedicado, persistente e tenho uma paixão genuína pelo desenvolvimento de software. Sempre estou disposto a enfrentar novos desafios e encontrar soluções eficazes.
 
-Sou uma pessoa fácil de lidar, com perfil analítico e pronta para encontrar soluções. 💡 Sou dedicado, persistente e possuo paixão pelo desenvolvimento de software, sempre disposto a enfrentar novos desafios. Possuo certificado e prática nas tecnologias: React, JavaScript, Node, CSS, HTML e Git/GitHub. Já realizei vários sites e landing pages responsivos, utilizando CSS Grid, Flex Box, design responsivo para dispositivos móveis e desktop, validação de e-mails e mapas de localização.
+Tenho certificação e experiência prática em diversas tecnologias, incluindo React, Next.js, JavaScript, Node.js, Python, CSS, HTML e Git/GitHub. Já desenvolvi diversos projetos, como o CRM Corretor Lab, sites e landing pages responsivas utilizando CSS Grid, Flexbox, design responsivo para dispositivos móveis e desktop, além de funcionalidades como validação de e-mails e mapas de localização.
 
-Para entrar em contato comigo, você pode me enviar um e-mail para dev.marcotullio@gmail.com ou me ligar no telefone +55 (21) 99005-0220. Estou sempre disponível para discutir oportunidades de trabalho e colaboração. 📧📞
+Alguns dos meus projetos destacados incluem:
 
+Fullflix: Site em React com implementação de API
+Art Gallery Website: Site em JavaScript com mapa de localização
+Pod Request Access Landing Page: Landing page em JavaScript com validação de e-mails
+Todo List Challenge: Lista de tarefas em JavaScript com filtro e persistência de dados
+Para ver mais do meu trabalho, visite meu perfil no GitHub.
+
+Estou sempre aberto a discutir oportunidades de trabalho e colaboração. Tenho disponibilidade para mudanças ou viagens a trabalho, conforme necessário. Além disso, sou casado e pai de uma filha, o que me motiva a buscar um equilíbrio saudável entre vida pessoal e profissional. Você pode entrar em contato comigo através do e-mail dev.marcotullio@gmail.com ou pelo telefone +55 (21) 99005-0220. Vamos construir algo incrível juntos!
 
 <div style="display: inline" align="center" >
   <a href="https://github.com/MarcoFranca">
